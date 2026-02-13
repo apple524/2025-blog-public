@@ -1,13 +1,3 @@
----
-title: Teable无代码数据库系统
-description: 
-published: true
-date: 2025-05-19T01:53:00.333Z
-tags: teable, 数据库, excel
-editor: markdown
-dateCreated: 2025-05-07T06:06:31.706Z
----
-
 # 安装环境
 - 系统： Rocky 8 （关闭SE Linux）
 - 操作系统：建议使用Linux发行版，如Ubuntu 20.04 LTS。
